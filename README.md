@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/salsabilbahaa/Problem-Solving/tree/master/0322-coin-change) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/salsabilbahaa/Problem-Solving/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
