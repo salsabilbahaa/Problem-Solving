@@ -34,4 +34,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/salsabilbahaa/Problem-Solving/tree/master/0196-delete-duplicate-emails) |
+| [1667-fix-names-in-a-table](https://github.com/salsabilbahaa/Problem-Solving/tree/master/1667-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
