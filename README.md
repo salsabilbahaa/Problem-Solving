@@ -38,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-find-users-with-valid-e-mails](https://github.com/salsabilbahaa/Problem-Solving/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/salsabilbahaa/Problem-Solving/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/salsabilbahaa/Problem-Solving/tree/master/1667-fix-names-in-a-table) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/salsabilbahaa/Problem-Solving/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/salsabilbahaa/Problem-Solving/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
