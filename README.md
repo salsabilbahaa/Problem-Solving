@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/salsabilbahaa/Problem-Solving/tree/master/0062-unique-paths) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/salsabilbahaa/Problem-Solving/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,5 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/salsabilbahaa/Problem-Solving/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/salsabilbahaa/Problem-Solving/tree/master/1768-merge-strings-alternately) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/salsabilbahaa/Problem-Solving/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/salsabilbahaa/Problem-Solving/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
