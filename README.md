@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/salsabilbahaa/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0322-coin-change](https://github.com/salsabilbahaa/Problem-Solving/tree/master/0322-coin-change) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/salsabilbahaa/Problem-Solving/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Matrix
 |  |
 | ------- |
