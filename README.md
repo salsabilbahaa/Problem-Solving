@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/salsabilbahaa/Problem-Solving/tree/master/0062-unique-paths) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/salsabilbahaa/Problem-Solving/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3875-construct-uniform-parity-array-i](https://github.com/salsabilbahaa/Problem-Solving/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/salsabilbahaa/Problem-Solving/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/salsabilbahaa/Problem-Solving/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/salsabilbahaa/Problem-Solving/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3875-construct-uniform-parity-array-i](https://github.com/salsabilbahaa/Problem-Solving/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/salsabilbahaa/Problem-Solving/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Matrix
 |  |
 | ------- |
