@@ -8,10 +8,11 @@ public:
         if (mn & 1){
             return true;
         }
-        bool can = 1;
-        for (int i = 0; i < nums1.size(); i++){
-            can &= !(nums1[i] & 1);
+        for (int i : nums1){
+            if (i & 1){
+                return false;
+            }
         }
-        return can;
+        return true;
     }
 };
