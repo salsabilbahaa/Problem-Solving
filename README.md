@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/salsabilbahaa/Problem-Solving/tree/master/0062-unique-paths) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/salsabilbahaa/Problem-Solving/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3870-count-commas-in-range](https://github.com/salsabilbahaa/Problem-Solving/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/salsabilbahaa/Problem-Solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/salsabilbahaa/Problem-Solving/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
